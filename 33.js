@@ -1,4 +1,4 @@
-//Array with while loop
+//Array with for of loop
 
 const fruits =['apple','mango','grapes'];
 const xfruits=[];
