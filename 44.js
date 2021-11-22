@@ -1,4 +1,4 @@
-// function
+// function declaration
 
 function func(){
     console.log('hello javascript');
