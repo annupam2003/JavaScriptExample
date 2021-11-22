@@ -17,6 +17,4 @@ function additionTwoNum(num1,num2)
     return num1+num2;
 }
 
-const func1 = additionTwoNum(5,6);
-
-console.log(func1);
+console.log(additionTwoNum(5,6));
